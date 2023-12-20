@@ -411,6 +411,7 @@ article {
     border-radius: 2rem;
     width: 15rem;
     height: 10rem;
+    object-fit: cover;
   }
   
   .project-title {
